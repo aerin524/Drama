@@ -101,7 +101,7 @@ content_data = {
             "https://i.ibb.co/8NRYWTg/IMG-3964.jpg"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=SmGOlfAEmrI",
+            "https://youtu.be/SmGOlfAEmrI?feature=shared",
             "https://www.youtube.com/watch?v=3U267b-yyFQ",
             "https://www.youtube.com/watch?v=qf2n0QY2N_0"
         ],
