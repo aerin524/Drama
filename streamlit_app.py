@@ -79,14 +79,14 @@ st.markdown("""
 content_data = {
     labels[0]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label1_Image1",
-            "https://via.placeholder.com/300?text=Label1_Image2",
-            "https://via.placeholder.com/300?text=Label1_Image3"
+            "https://ibb.co/mbRhtHG",
+            "https://ibb.co/vhvG7bt",
+            "https://ibb.co/f950jrL"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://www.youtube.com/watch?v=vgxo53sn8K0",
+            "https://www.youtube.com/watch?v=UghqrDn6VqA",
+            "https://www.youtube.com/watch?v=uD-M1el6tqQ"
         ],
         'texts': [
             "Label 1 관련 첫 번째 텍스트 내용입니다.",
@@ -96,14 +96,14 @@ content_data = {
     },
     labels[1]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label2_Image1",
-            "https://via.placeholder.com/300?text=Label2_Image2",
-            "https://via.placeholder.com/300?text=Label2_Image3"
+            "https://ibb.co/xYgPJc5",
+            "https://ibb.co/80Kv7d5",
+            "https://ibb.co/S51fhWw"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
+            "https://www.youtube.com/watch?v=SmGOlfAEmrI",
+            "https://www.youtube.com/watch?v=3U267b-yyFQ",
+            "https://www.youtube.com/watch?v=qf2n0QY2N_0"
         ],
         'texts': [
             "Label 2 관련 첫 번째 텍스트 내용입니다.",
@@ -113,14 +113,14 @@ content_data = {
     },
     labels[2]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label3_Image1",
-            "https://via.placeholder.com/300?text=Label3_Image2",
-            "https://via.placeholder.com/300?text=Label3_Image3"
+            "https://ibb.co/rvfzZ0H",
+            "https://ibb.co/9cbmTtZ",
+            "https://ibb.co/GptRhBh"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://www.youtube.com/watch?v=ktA9IUTOWag",
+            "https://www.youtube.com/watch?v=adHur3fhGwA",
+            "https://www.youtube.com/watch?v=sonY2pmZ-zQ"
         ],
         'texts': [
             "Label 3 관련 첫 번째 텍스트 내용입니다.",
@@ -130,14 +130,14 @@ content_data = {
     },
     labels[3]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label3_Image1",
-            "https://via.placeholder.com/300?text=Label3_Image2",
-            "https://via.placeholder.com/300?text=Label3_Image3"
+            "https://ibb.co/2NChpHt",
+            "https://ibb.co/dBdXqWv",
+            "https://ibb.co/wSrmycZ"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://www.youtube.com/watch?v=lFX49tAjmj4",
+            "https://www.youtube.com/watch?v=RHsWM1_gStg",
+            "https://www.youtube.com/watch?v=3fZbirq9FPg"
         ],
         'texts': [
             "Label 3 관련 첫 번째 텍스트 내용입니다.",
@@ -147,14 +147,14 @@ content_data = {
     },
     labels[4]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label3_Image1",
-            "https://via.placeholder.com/300?text=Label3_Image2",
-            "https://via.placeholder.com/300?text=Label3_Image3"
+            "https://ibb.co/qgZDRqS",
+            "https://ibb.co/SV3RpSC",
+            "https://ibb.co/Y2GD3Zw"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://www.youtube.com/watch?v=a29X0rQ2hmA",
+            "https://www.youtube.com/watch?v=ReRLQ9GN2iQ",
+            "https://www.youtube.com/watch?v=7I1SPKwTXJ0"
         ],
         'texts': [
             "Label 3 관련 첫 번째 텍스트 내용입니다.",
