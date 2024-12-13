@@ -89,9 +89,9 @@ content_data = {
             "https://www.youtube.com/watch?v=uD-M1el6tqQ"
         ],
         'texts': [
-            "Label 1 관련 첫 번째 텍스트 내용입니다.",
-            "Label 1 관련 두 번째 텍스트 내용입니다.",
-            "Label 1 관련 세 번째 텍스트 내용입니다."
+            "<실소> 소개편편",
+            "<실소> 예고편",
+            "<실소> ost"
         ]
     },
     labels[1]: {
@@ -106,9 +106,9 @@ content_data = {
             "https://www.youtube.com/watch?v=qf2n0QY2N_0"
         ],
         'texts': [
-            "Label 2 관련 첫 번째 텍스트 내용입니다.",
-            "Label 2 관련 두 번째 텍스트 내용입니다.",
-            "Label 2 관련 세 번째 텍스트 내용입니다."
+            "<아적반파남우> 몰아보기",
+            "<아적반파남우> 1화",
+            "<아적반파남우> ost 심월&진철원"
         ]
     },
     labels[2]: {
@@ -123,9 +123,9 @@ content_data = {
             "https://www.youtube.com/watch?v=sonY2pmZ-zQ"
         ],
         'texts': [
-            "Label 3 관련 첫 번째 텍스트 내용입니다.",
-            "Label 3 관련 두 번째 텍스트 내용입니다.",
-            "Label 3 관련 세 번째 텍스트 내용입니다."
+            "<아친애적소결벽> 하이라이트",
+            "<아친애적소결벽> 1화",
+            "<아친애적소결벽> ost"
         ]
     },
     labels[3]: {
@@ -140,9 +140,9 @@ content_data = {
             "https://www.youtube.com/watch?v=3fZbirq9FPg"
         ],
         'texts': [
-            "Label 3 관련 첫 번째 텍스트 내용입니다.",
-            "Label 3 관련 두 번째 텍스트 내용입니다.",
-            "Label 3 관련 세 번째 텍스트 내용입니다."
+            "<유성화원2018> 둥산차이♡다오밍스",
+            "<유성화원2018> 넷플릭스 예고편",
+            "<유성화원2018> ost"
         ]
     },
     labels[4]: {
@@ -157,9 +157,9 @@ content_data = {
             "https://www.youtube.com/watch?v=7I1SPKwTXJ0"
         ],
         'texts': [
-            "Label 3 관련 첫 번째 텍스트 내용입니다.",
-            "Label 3 관련 두 번째 텍스트 내용입니다.",
-            "Label 3 관련 세 번째 텍스트 내용입니다."
+            "<치아문단순적소미호> 소개편",
+            "<치아문단순적소미호> 1화",
+            "<치아문단순적소미호> ost ."
         ]
     }
 }
