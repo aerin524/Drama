@@ -101,12 +101,12 @@ content_data = {
             "https://i.ibb.co/8NRYWTg/IMG-3964.jpg"
         ],
         'videos': [
-            "https://youtu.be/SmGOlfAEmrI?feature=shared",
+            "https://www.youtube.com/watch?v=tioRS1gsvd4",
             "https://www.youtube.com/watch?v=3U267b-yyFQ",
             "https://www.youtube.com/watch?v=qf2n0QY2N_0"
         ],
         'texts': [
-            "<아적반파남우> 몰아보기",
+            "<아적반파남우> 난싱♡샤오우디",
             "<아적반파남우> 1화",
             "<아적반파남우> ost 심월&진철원"
         ]
