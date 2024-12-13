@@ -123,7 +123,7 @@ content_data = {
             "https://www.youtube.com/watch?v=sonY2pmZ-zQ"
         ],
         'texts': [
-            "<아친애적소결벽> 하이라이트 영상상",
+            "<아친애적소결벽> 하이라이트 영상",
             "<아친애적소결벽> 1화",
             "<아친애적소결벽> ost"
         ]
