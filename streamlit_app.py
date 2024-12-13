@@ -79,9 +79,9 @@ st.markdown("""
 content_data = {
     labels[0]: {
         'images': [
-            "https://ibb.co/vhvG7bt",
-            "https://ibb.co/mbRhtHG",
-            "https://ibb.co/f950jrL"
+            "https://i.ibb.co/XDkgh9w/1.webp",
+            "https://i.ibb.co/MZgPpRs/3.webp",
+            "https://i.ibb.co/bFZdcND/F-IESHFa4-AAb8-YI.jpg"
         ],
         'videos': [
             "https://www.youtube.com/watch?v=vgxo53sn8K0",
@@ -96,9 +96,9 @@ content_data = {
     },
     labels[1]: {
         'images': [
-            "https://ibb.co/xYgPJc5",
-            "https://ibb.co/80Kv7d5",
-            "https://ibb.co/S51fhWw"
+            "https://i.ibb.co/qCgXk41/IMG-3962.jpg",
+            "https://i.ibb.co/jT60rWM/IMG-3963.jpg",
+            "https://i.ibb.co/8NRYWTg/IMG-3964.jpg"
         ],
         'videos': [
             "https://www.youtube.com/watch?v=SmGOlfAEmrI",
@@ -113,9 +113,9 @@ content_data = {
     },
     labels[2]: {
         'images': [
-            "https://ibb.co/rvfzZ0H",
-            "https://ibb.co/9cbmTtZ",
-            "https://ibb.co/GptRhBh"
+            "https://i.ibb.co/3kYj0dc/IMG-3961-1.jpg",
+            "https://i.ibb.co/djPs2gm/IMG-3960.jpg",
+            "https://i.ibb.co/KhLW1R1/IMG-3959.jpg"
         ],
         'videos': [
             "https://www.youtube.com/watch?v=ktA9IUTOWag",
@@ -130,9 +130,9 @@ content_data = {
     },
     labels[3]: {
         'images': [
-            "https://ibb.co/2NChpHt",
-            "https://ibb.co/dBdXqWv",
-            "https://ibb.co/wSrmycZ"
+            "https://i.ibb.co/kKRzfHT/IMG-3953.jpg",
+            "https://i.ibb.co/PQPjV0h/IMG-3954.jpg",
+            "https://i.ibb.co/48grW1w/IMG-3955.jpg"
         ],
         'videos': [
             "https://www.youtube.com/watch?v=lFX49tAjmj4",
@@ -147,9 +147,9 @@ content_data = {
     },
     labels[4]: {
         'images': [
-            "https://ibb.co/qgZDRqS",
-            "https://ibb.co/SV3RpSC",
-            "https://ibb.co/Y2GD3Zw"
+            "https://i.ibb.co/v18sHYR/IMG-3949.jpg",
+            "https://i.ibb.co/zP4Gwdv/IMG-3951.jpg",
+            "https://i.ibb.co/FYPhBZr/IMG-3950.jpg"
         ],
         'videos': [
             "https://www.youtube.com/watch?v=a29X0rQ2hmA",
