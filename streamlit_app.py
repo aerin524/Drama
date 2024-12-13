@@ -79,8 +79,8 @@ st.markdown("""
 content_data = {
     labels[0]: {
         'images': [
-            "https://ibb.co/mbRhtHG",
             "https://ibb.co/vhvG7bt",
+            "https://ibb.co/mbRhtHG",
             "https://ibb.co/f950jrL"
         ],
         'videos': [
@@ -89,7 +89,7 @@ content_data = {
             "https://www.youtube.com/watch?v=uD-M1el6tqQ"
         ],
         'texts': [
-            "<실소> 소개편편",
+            "<실소> 소개편",
             "<실소> 예고편",
             "<실소> ost"
         ]
