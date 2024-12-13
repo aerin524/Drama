@@ -91,7 +91,7 @@ content_data = {
         'texts': [
             "<실소> 소개편",
             "<실소> 예고편",
-            "<실소> ost"
+            "<실소> ost - Make Me Wanna"
         ]
     },
     labels[1]: {
@@ -108,7 +108,7 @@ content_data = {
         'texts': [
             "<아적반파남우> 난싱♡샤오우디",
             "<아적반파남우> 1화",
-            "<아적반파남우> ost 심월&진철원"
+            "<아적반파남우> ost - 做我的勇士_내 용사가 되어줘 심월&진철원"
         ]
     },
     labels[2]: {
@@ -120,12 +120,12 @@ content_data = {
         'videos': [
             "https://www.youtube.com/watch?v=ktA9IUTOWag",
             "https://www.youtube.com/watch?v=adHur3fhGwA",
-            "https://www.youtube.com/watch?v=sonY2pmZ-zQ"
+            "https://www.youtube.com/watch?v=iZMoRhvZG3I"
         ],
         'texts': [
             "<아친애적소결벽> 하이라이트 영상",
             "<아친애적소결벽> 1화",
-            "<아친애적소결벽> ost"
+            "<아친애적소결벽> ost - U 류이호 "
         ]
     },
     labels[3]: {
@@ -142,7 +142,7 @@ content_data = {
         'texts': [
             "<유성화원2018> 둥산차이♡다오밍스",
             "<유성화원2018> 넷플릭스 예고편",
-            "<유성화원2018> ost"
+            "<유성화원2018> ost - 爱，存在_애, 존재 "
         ]
     },
     labels[4]: {
@@ -159,7 +159,7 @@ content_data = {
         'texts': [
             "<치아문단순적소미호> 소개편",
             "<치아문단순적소미호> 1화",
-            "<치아문단순적소미호> ost ."
+            "<치아문단순적소미호> ost - 我多喜欢你 你会知道_내가 널 얼마나 좋아하는지, 넌 알게 될 거야"
         ]
     }
 }
